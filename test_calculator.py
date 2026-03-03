@@ -1,5 +1,4 @@
 
-```python name=test_calculator.py
 """
 Unit tests for MyCalculator
 Test all calculator functions
